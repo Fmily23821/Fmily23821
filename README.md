@@ -180,7 +180,6 @@
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="50" alt="Jenkins" />
  -->
 <!-- Remote Work & Leadership -->
-</td>
 <td align="center" width="123.4" style="background: linear-gradient(135deg, #2d3436, #636e72); border-radius: 12px; padding: 15px; box-shadow: 0 4px 15px rgba(45, 52, 54, 0.3); transition: all 0.3s ease; border: 2px solid rgba(255,255,255,0.2);">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="50" alt="Trello" />
     <br><span style="color: white; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">Trello</span>
