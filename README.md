@@ -13,7 +13,7 @@
    <!-- Subtitle with Minimalist Style -->
    <div align="center" style="margin-top: 20px; position: relative; z-index: 2;">
       <span id="subtitle" style="background: linear-gradient(135deg,rgb(0, 0, 0),rgb(25, 197, 209)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 25px; font-weight: 400; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; opacity: 0.9; transition: all 0.3s ease; display: inline-block; padding: 10px; border-radius: 8px;">
-         ✨ To plan goals with thinking to live whole life, to live with thinking today is the last day of my life! ✨
+         ✨ *Committed to lifelong learning, innovative thinking, and making every moment count.* ✨
       </span>
    </div>
 </div>
