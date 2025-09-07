@@ -83,11 +83,6 @@
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
     <br><span style="color: white; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">Ngnix</span>
 </td>
-<!-- Blockchain Development -->
-<td align="center" width="123.4" style="background: linear-gradient(135deg, #2d3436, #636e72); border-radius: 12px; padding: 15px; box-shadow: 0 4px 15px rgba(45, 52, 54, 0.3); transition: all 0.3s ease; border: 2px solid rgba(255,255,255,0.2);">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="50" alt="matplot" />
-    <br><span style="color: white; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">Matplot</span>
-</td>
 </tr>
 <tr>
 <td align="center" width="123.4" style="background: linear-gradient(135deg, #2d3436, #636e72); border-radius: 12px; padding: 15px; box-shadow: 0 4px 15px rgba(45, 52, 54, 0.3); transition: all 0.3s ease; border: 2px solid rgba(255,255,255,0.2);">
@@ -193,9 +188,6 @@
 <td align="center" width="123.4" style="background: linear-gradient(135deg, #2d3436, #636e72); border-radius: 12px; padding: 15px; box-shadow: 0 4px 15px rgba(45, 52, 54, 0.3); transition: all 0.3s ease; border: 2px solid rgba(255,255,255,0.2);">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="50" alt="Slack" />
     <br><span style="color: white; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">Slack</span>
-<td align="center" width="123.4" style="background: linear-gradient(135deg, #2d3436, #636e72); border-radius: 12px; padding: 15px; box-shadow: 0 4px 15px rgba(45, 52, 54, 0.3); transition: all 0.3s ease; border: 2px solid rgba(255,255,255,0.2);">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50" alt="Jira" />
-    <br><span style="color: white; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">Jira</span>
 </td>
 
 </table>
@@ -211,7 +203,7 @@
 <h1 style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-align: center; padding: 20px; border-radius: 15px; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4); text-shadow: 2px 2px 4px rgba(0,0,0,0.3); font-size: 2.5em; margin: 30px 0; border: 3px solid rgba(255,255,255,0.2);">🚀 Achievements List 🚀</h1>
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; justify-content: center;">
     <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" alt="Quickdraw" width="60">
     <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" alt="Starstruck" width="60">
     <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" alt="YOLO" width="60">
